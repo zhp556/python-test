@@ -1,2 +1,5 @@
 # python-test
 学习python期间写的项目
+D1：学习了Numpy数组以及利用Matplotlib画图
+D2：用python实现了与非门感知机
+由于与非门感知机实现的返回值是完全相反的，所以对应的w1，2和偏置b互为相反数
